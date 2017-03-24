@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=z": { "model": "eyeq_flatdimension:flat_portal_ew" },
+    "axis=x": { "model": "eyeq_flatdimension:flat_portal_ns" }
+  }
+}
